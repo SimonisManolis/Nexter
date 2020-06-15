@@ -53,4 +53,8 @@
     &:hover{
         background-color: $color-primary-dark;
     }
+
+    &--home{
+        grid-column: 1 / -1;
+    }
 }
